@@ -1,7 +1,7 @@
 # Kelani Ganga Gauge Monitoring Dashboard
 
 A beginner portfolio project that monitors river gauge readings for selected stations along the Kelani Ganga.
-<img width="1307" height="735" alt="image" src="https://github.com/user-attachments/assets/7fb8920e-5d03-49b1-aba0-b5df1eb67d26" />
+![Kelani Ganga Gauge Monitoring Dashboard](powerbi-dashboard.png)
 
 ## Dashboard Features
 
